@@ -1,0 +1,6 @@
+  name: WorldGuardTrade
+  main: WorldGuardTrade
+  version: ${project.version}
+  depend:
+    - WorldGuard
+  api-version: 1.13
